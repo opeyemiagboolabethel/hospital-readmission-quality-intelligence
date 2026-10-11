@@ -1,0 +1,26 @@
+measure_id,footnote,score_raw,hospital_rows
+READM_30_AMI,1,Not Available,1531
+READM_30_AMI,5,Not Available,937
+READM_30_AMI,7,Not Available,179
+READM_30_AMI,19,Not Available,172
+READM_30_CABG,5,Not Available,3532
+READM_30_CABG,19,Not Available,172
+READM_30_CABG,1,Not Available,143
+READM_30_CABG,7,Not Available,3
+READM_30_CABG,"1, 29",Not Available,2
+READM_30_COPD,1,Not Available,1193
+READM_30_COPD,5,Not Available,330
+READM_30_COPD,19,Not Available,172
+READM_30_COPD,7,Not Available,9
+READM_30_HF,1,Not Available,1020
+READM_30_HF,5,Not Available,338
+READM_30_HF,19,Not Available,172
+READM_30_HF,7,Not Available,7
+READM_30_HIP_KNEE,5,Not Available,1441
+READM_30_HIP_KNEE,1,Not Available,1336
+READM_30_HIP_KNEE,19,Not Available,172
+READM_30_HIP_KNEE,7,Not Available,146
+READM_30_PN,1,Not Available,575
+READM_30_PN,5,Not Available,277
+READM_30_PN,19,Not Available,172
+READM_30_PN,7,Not Available,8

@@ -1,0 +1,41 @@
+[
+  {
+    "name": "hospital_visits",
+    "identifier": "632h-zaca",
+    "api_url": "https://data.cms.gov/provider-data/api/1/datastore/query/632h-zaca/0",
+    "download_url": "https://data.cms.gov/provider-data/sites/default/files/resources/30edc1d0417a34b58affcc2495a02b0a_1790013959/Unplanned_Hospital_Visits-Hospital.csv",
+    "released": "2026-09-30",
+    "modified": "2026-09-10",
+    "source_csv_sha256": "98cc64f5fc330ffa7e4bef97f8e86a772a1d3dfe2f7dd08976cb1ee43fad1b2d",
+    "catalog_url": "https://data.cms.gov/provider-data/dataset/632h-zaca",
+    "rows": 67060,
+    "retrieved_utc": "2026-10-11T22:07:35.641968+00:00",
+    "sha256": "df619e79ed5fc5c9b6856c7dca4150503d896251715b6e09df328fb359823b55"
+  },
+  {
+    "name": "national_visits",
+    "identifier": "cvcs-xecj",
+    "api_url": "https://data.cms.gov/provider-data/api/1/datastore/query/cvcs-xecj/0",
+    "download_url": "https://data.cms.gov/provider-data/sites/default/files/resources/d30b0557f1d06bee1d5646d2eaede709_1790013960/Unplanned_Hospital_Visits-National.csv",
+    "released": "2026-09-30",
+    "modified": "2026-09-10",
+    "source_csv_sha256": "42db9aba1b194c9c65cbba3db83a990ffa653795d38a037bc660f12f58fecf98",
+    "catalog_url": "https://data.cms.gov/provider-data/dataset/cvcs-xecj",
+    "rows": 14,
+    "retrieved_utc": "2026-10-11T22:07:34.616186+00:00",
+    "sha256": "88c452f220c52bb290ab465e0da1f95ae43dd48f17a0830b3f2e5b9a268c1a7f"
+  },
+  {
+    "name": "hospital_information",
+    "identifier": "xubh-q36u",
+    "api_url": "https://data.cms.gov/provider-data/api/1/datastore/query/xubh-q36u/0",
+    "download_url": "https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1785189955/Hospital_General_Information.csv",
+    "released": "2026-08-13",
+    "modified": "2026-07-22",
+    "source_csv_sha256": "f874f09fef895a1ccf5bb7392dcbb2be05c9860339261b093fe00f0c1b013480",
+    "catalog_url": "https://data.cms.gov/provider-data/dataset/xubh-q36u",
+    "rows": 5419,
+    "retrieved_utc": "2026-10-11T22:07:34.617732+00:00",
+    "sha256": "a854b8f31a50437bd91fec8dc401e84c4d117d664d47cee5c8e7417dc87eb37c"
+  }
+]

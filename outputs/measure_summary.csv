@@ -1,0 +1,7 @@
+measure_id,condition,start_date,end_date,national_rate,hospitals,published_rates,unavailable_rates,coverage_pct,unweighted_hospital_mean,above_point_benchmark,at_point_benchmark,below_point_benchmark
+READM_30_AMI,Heart attack,07/01/2023,06/30/2025,14.4,4790,1971,2819,41.15,14.389,887,99,985
+READM_30_CABG,Coronary bypass,07/01/2023,06/30/2025,11.0,4790,938,3852,19.58,11.065,435,22,481
+READM_30_COPD,COPD,07/01/2023,06/30/2025,20.0,4790,3086,1704,64.43,19.898,1189,150,1747
+READM_30_HF,Heart failure,07/01/2023,06/30/2025,21.3,4790,3253,1537,67.91,21.376,1583,136,1534
+READM_30_HIP_KNEE,Hip / knee replacement,07/01/2023,06/30/2025,5.8,4790,1695,3095,35.39,5.827,761,115,819
+READM_30_PN,Pneumonia,07/01/2023,06/30/2025,17.3,4790,3758,1032,78.46,17.34,1688,175,1895

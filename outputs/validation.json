@@ -1,0 +1,23 @@
+{
+  "python": "3.12",
+  "tests_passed": 6,
+  "checks": [
+    "Identifiers and missingness",
+    "Exact-period benchmark and gap reconciliation",
+    "SQL reports match processed evidence",
+    "Filters preserve coverage scope",
+    "Duplicate and misaligned-period rejection",
+    "App initial render, empty-result filter and hospital selection"
+  ],
+  "output_sha256": {
+    "outputs/reporting-coverage.svg": "fcb62dbc74036e8ce835f061c9803c592218b386f7d94ba39788564f6ecf63f3",
+    "outputs/unavailable_footnotes.csv": "2edc9b1f104d6f7033b633f9ed4802fec96d59ab7d3a78f8be81845e5c84ba10",
+    "outputs/state_coverage.csv": "431b51c4dfe7c45639979f4f2eb7839018f90d2880aaf35bd4fd838693f7d306",
+    "outputs/review_screen_sensitivity.csv": "8c85a0723bbb56664f1b2a592709d5aabd5df0897dcb7c642eb02fc092e37c3f",
+    "outputs/measure_summary.csv": "9a1aa756ffacf461dc44397c8c9ef2ac0bee8323b562427ce69553b1ad4f1eb6",
+    "outputs/hospital_measures.csv.gz": "86d432b115dd9de43da98cfae4f1166451fdfc5879181e0bbc8dd1ac1ac4a25a",
+    "outputs/ownership_coverage.csv": "e2080ff68357355af0f3a8996afe550df5328aadbabd11b17eb831db88c506da",
+    "outputs/summary.json": "dbfcbd683cdc15e76d7484a3b9752ed819f2381ad445d46719c3ea0b00f9364f",
+    "outputs/default_review_queue.csv": "42bec2da0129ffa6ad43ff39bd8cb6d2e0d88af87a03a74783eb768dffa89242"
+  }
+}
